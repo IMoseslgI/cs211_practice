@@ -13,27 +13,20 @@
 // 
 // An example is shown below.
 // 
-//Hello
 // UIC CS 211, Fall 2022
 #include <stdio.h>
 
-void jcuell2_mgarc243() {
-  printf("Jose Cuellar and Moses Garcia\n");
-  printf("We learned that github is very powerful and complex due to its sharp learning curve from all the functions needed to navigate it. Once you do you know how 
-		  to use those though you should be able to minimize downtime in coding.\n");
- printf("Hello fellow studdents, it is I the king of procrostination and spelling errors. In here we learned many things such as how to maximize the amount of time wasted and going in circles. ")
-	 for(int braincells=0; braincells != 3;braincells++){
-		 prinft("being in replit has increased my braincells by %d\n",braincells);
+void mgarc243_jcuell2() {
+  printf("Moses Garcia and Jose Cuellar\n");
+  printf("We learned that git is not the easiest thing to learn because of how primitive the language is. We also learned that it has a sharp learning curve 
 
-	 }
 }
-
 
 int main()
 {
     printf("This code has been created by the students of CS 211, Fall 2022!\n\n");
     
-    jcuell2_mgarc243();
+    reed_ekidan2();
     
     return 0;
 }
